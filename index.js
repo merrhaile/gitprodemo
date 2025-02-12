@@ -1,2 +1,5 @@
+function logger(string) {
+  console.log(string);
+}
 
-console.log("Hello from JS");
+logger("Hello from JS");
