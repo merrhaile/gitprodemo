@@ -1,3 +1,6 @@
 file created by Simon
-
+this file is for logging purposes
 Favorite sport/Movie
+
+
+
